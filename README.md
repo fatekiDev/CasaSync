@@ -61,6 +61,16 @@ MVP Version:
 * Household budgeting tools
 * AI-powered suggestions
 
+## Project Status
+
+Current Phase:
+- Planning & Architecture
+
+Next Phase:
+- Environment Setup
+- Flutter Web
+- Supabase Integration
+
 ---
 
 Built with ❤️ as a real-world software engineering project.
